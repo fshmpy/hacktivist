@@ -18,6 +18,7 @@ from django.urls import include,path
 import organizations as org
 
 urlpatterns = [
+    path('events/', include('events.urls')),
     path('admin/', admin.site.urls),
     path('org/', include('organizations.urls')),
 ]

@@ -10,4 +10,7 @@
  {'date':'1997-08-15',
   'name_en': 'GNOME creation date',
   'name_ta': 'முதுமொழி ஆரம்பித்த தினம்'},
+  'name_ta':''},
+ {"date": "1983-08-27",
+  "name_en": "GNU Project starts."}
 ]
