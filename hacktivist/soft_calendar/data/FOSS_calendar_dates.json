@@ -41,5 +41,7 @@
  "name_en" : "Mastodon Initial release date"},
  {"date":"2001-02-01",
     "name_en": "VLC launched date",
-    "name_ta": ""}
+    "name_ta": ""},
+ {"date":"2018-03-1",
+    "name_en": "PeerTube launched date"},
 ]
