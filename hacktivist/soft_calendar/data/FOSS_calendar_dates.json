@@ -1,3 +1,8 @@
 [{'date':'1985-03-20',
   'name_en': 'GNU Emacs creation date',
-  'name_ta': 'குனு இமாச்ஸ்  ஆரம்பித்த தினம்'},]
+  'name_ta': 'குனு இமாச்ஸ்  ஆரம்பித்த தினம்'},
+ {'date':'1996-10-14',
+  'name_en':'KDE creation date',
+  'name_ta':'கே டீ ஈ   ஆரம்பித்த தினம் '}
+
+]
