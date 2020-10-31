@@ -1,38 +1,73 @@
-[{"date":"1985-03-20",
-  "name_en": "GNU Emacs creation date",
-  "name_ta": "குனு இமாச்ஸ்  ஆரம்பித்த தினம்'},
- {"date":"1996-10-14",
-  "name_en":"KDE creation date",
-  "name_ta":"கே டீ ஈ   ஆரம்பித்த தினம் "},
- {"date":"2005-04-03",
-  "name_en":"Development of GIT",
-  "name_ta":""},
- {"date":"1993-08-16",
-  "name_en":"Development of Debian",
-  "name_ta":""}
- {"date":"1997-08-15",
-  "name_en": "GNOME creation date",
-  "name_ta": "முதுமொழி ஆரம்பித்த தினம்"},
- {"date": "1983-08-27",
-  "name_en": "GNU Project starts.",
-  "name_ta":""},
- {"date": "2013-01-11",
-  "name_en": "Aaron Swartz Death."},
- {"date": "2011-09-16",
-  "name_en": "Added Scihub Launched Date."},
-{"date": "1988-11-06",
- "name_en": " Alexandra Elbakyan birthday"}
- {"date": "1993-08-16",
- "name_en": "Development of Debian"},
- {"date":"2002-03-11",
- "name_en":"Arch Linux"},
- {"date":"2003-11-06",
- "name_en":"Fedora Linux"},
- {"date":"2005-10-06",
- "name_en":"OpenSUSE Linux"},
- {"date":"1998-06-03",
-   "name_en":"Krita creation date",
-   "name_ta":""},
- {"date":"2001-01-15",
-   "name_en":"Wikipedia Launched"},
+[
+  {
+    "date": "1985-03-20",
+    "name_en": "GNU Emacs creation date",
+    "name_ta": "குனு இமாச்ஸ்  ஆரம்பித்த தினம்"
+  },
+  {
+    "date": "1996-10-14",
+    "name_en": "KDE creation date",
+    "name_ta": "கே டீ ஈ   ஆரம்பித்த தினம் "
+  },
+  {
+    "date": "2005-04-03",
+    "name_en": "Development of GIT",
+    "name_ta": ""
+  },
+  {
+    "date": "1993-08-16",
+    "name_en": "Development of Debian",
+    "name_ta": ""
+  },
+  {
+    "date": "1997-08-15",
+    "name_en": "GNOME creation date",
+    "name_ta": "முதுமொழி ஆரம்பித்த தினம்"
+  },
+  {
+    "date": "1983-08-27",
+    "name_en": "GNU Project starts.",
+    "name_ta": ""
+  },
+  {
+    "date": "2013-01-11",
+    "name_en": "Aaron Swartz Death."
+  },
+  {
+    "date": "2011-09-16",
+    "name_en": "Added Scihub Launched Date."
+  },
+  {
+    "date": "1988-11-06",
+    "name_en": " Alexandra Elbakyan birthday"
+  },
+  {
+    "date": "1993-08-16",
+    "name_en": "Development of Debian"
+  },
+  {
+    "date": "2002-03-11",
+    "name_en": "Arch Linux"
+  },
+  {
+    "date": "2003-11-06",
+    "name_en": "Fedora Linux"
+  },
+  {
+    "date": "2005-10-06",
+    "name_en": "OpenSUSE Linux"
+  },
+  {
+    "date": "1998-06-03",
+    "name_en": "Krita creation date",
+    "name_ta": ""
+  },
+  {
+    "date": "2001-01-15",
+    "name_en": "Wikipedia Launched"
+  },
+  {
+    "date": "2011-01-25",
+    "name_en": "LibreOffice Lanched"
+  },
 ]
