@@ -110,7 +110,8 @@
   {"date":"2003-05-27",
    "name_en": "WordPress Initial release"},
   {"date": "1991-02-20",
-   "name_en": "Python Version 0.9 release"}
+   "name_en": "Python Version 0.9 release"},
+  {"date": "2007-10-16",
+   "name_en": "Clojure Started "}
   
-   
 ]
