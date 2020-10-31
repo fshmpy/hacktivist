@@ -23,7 +23,13 @@
 {"date": "1988-11-06",
  "name_en": " Alexandra Elbakyan birthday"}
  {"date": "1993-08-16",
- "name_en": "Development of Debian"}
+ "name_en": "Development of Debian"},
+ {"date":"2002-03-11",
+ "name_en":"Arch Linux"},
+ {"date":"2003-11-06",
+ "name_en":"Fedora Linux"},
+ {"date":"2005-10-06",
+ "name_en":"OpenSUSE Linux"},
  {"date":"1998-06-03",
    "name_en":"Krita creation date",
    "name_ta":""},
